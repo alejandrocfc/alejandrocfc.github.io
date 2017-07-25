@@ -5,11 +5,7 @@ jQuery(function () { /* your function */
 	var Memory = {
 
 		init: function(cards){
-<<<<<<< HEAD
 			this.$game = $('.game');
-=======
-			this.$game = $(".game");
->>>>>>> 516a230f94cb60025867aa9a59ed4e444846e9e7
 			this.$modal = $(".modal");
 			this.$overlay = $(".modal-overlay");
 			this.$restartButton = $("button.restart");
